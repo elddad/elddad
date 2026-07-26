@@ -1,0 +1,15 @@
+# The AI brain — Claude Agent SDK (uses your Claude Pro/Max login, no API key needed)
+claude-agent-sdk>=0.1.0
+
+# Voice: speech-to-text (supports Hebrew + English, runs locally & free)
+faster-whisper>=1.0.0
+
+# Voice: microphone recording
+sounddevice>=0.4.6
+numpy>=1.24.0
+
+# Voice: text-to-speech (free Microsoft Edge voices, great Hebrew support)
+edge-tts>=6.1.0
+
+# Audio playback
+pygame>=2.5.0
