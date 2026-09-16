@@ -3,13 +3,13 @@
 **Electronics Engineering Technician student** who works on both hardware and software.
 I build circuits and embedded projects, and I also write the software around them: web apps, browser extensions and tools.
 
-- ⚡ **Studying:** analog & digital circuits, microcontrollers, measurement and troubleshooting
-- 🔧 **Currently building:** an ESP32 sensor board with a custom PCB
+- ⚡ **Studying:** analog & digital circuits, FPGA design on the Intel/Altera DE10, microcontrollers (Arduino, ESP32), measurement and troubleshooting
+- 🔧 **Currently building:** projects with FPGA, ESP32 and Arduino
 - 🎯 **Looking for:** internships and entry-level roles in electronics, embedded systems or test
 
 ### 🧰 Tools & Technologies
 
-**Electronics:** `Circuit design` · `Soldering` · `Oscilloscope` · `Multimeter` · `Arduino` · `ESP32` · `KiCad` · `Multisim`
+**Electronics:** `FPGA (DE10)` · `ESP32` · `Arduino` · `Circuit design` · `Soldering` · `Oscilloscope` · `Multimeter`
 
 **Code:**
 
