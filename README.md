@@ -34,4 +34,4 @@ I build circuits and embedded projects, and I also write the software around the
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/elddad) · [Email](mailto:YOUR-EMAIL@example.com)
+[LinkedIn](https://www.linkedin.com/in/elddad) · [Email](mailto:elddaddev@gmail.com)
